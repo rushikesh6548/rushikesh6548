@@ -17,7 +17,8 @@
 **Professional Experience:**  
 - SQL (**MSSQL, Oracle**)  
 - R  
-- SSIS (basic exposure)  
+- SSIS (basic exposure)
+- Python 
 
 **Currently Learning & Building Projects In:**  
 - Python  
