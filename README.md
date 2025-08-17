@@ -1,12 +1,13 @@
 # 👋 Hi there, I'm Rushikesh Wakhare  
 
-💡 A **Data Analyst** with growing expertise in **Data Science**, passionate about **Finance, Mathematics, and Programming**.  
+💡 A **Data Analyst** working in a **Housing Finance Company**, passionate about **Finance, Mathematics, and Programming**.  
 
 ---
 
 ### 🔎 About Me  
-- Currently working with **housing finance data** — large-scale, critical datasets that power decision-making.  
-- Strong interest in applying **math, statistics, and machine learning** to solve real-world financial problems.  
+- Currently working with **large-scale financial datasets** in the housing finance domain.  
+- Skilled at creating reports and insights that help business teams make critical decisions.  
+- Strong interest in applying **math, statistics, and machine learning** to real-world financial problems.  
 - Continuously learning and working towards becoming a **Data Scientist**.  
 
 ---
