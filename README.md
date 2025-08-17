@@ -1,10 +1,40 @@
-👋 Hi there, I'm Rushikesh Wakhare, and I'm passionate about Handling Big Data ,Data science and Analytics!
+# 👋 Hi there, I'm Rushikesh Wakhare  
 
-🧠 My love for solving real problems with Data and for Data is the what drives me ! 
+💡 A **Data Analyst** with growing expertise in **Data Science**, passionate about **Finance, Mathematics, and Programming**.  
 
-📫 You can reach me at rrushi6548@gmail.com. Let's connect and work together to solve some fascinating data problems!
+---
 
-<!---
-rushikesh6548/rushikesh6548 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔎 About Me  
+- Currently working with **housing finance data** — large-scale, critical datasets that power decision-making.  
+- Strong interest in applying **math, statistics, and machine learning** to solve real-world financial problems.  
+- Continuously learning and working towards becoming a **Data Scientist**.  
+
+---
+
+### 🛠️ Skills & Tools  
+
+**Professional Experience:**  
+- SQL (**MSSQL, Oracle**)  
+- R  
+- SSIS (basic exposure)  
+
+**Currently Learning & Building Projects In:**  
+- Python  
+- Statistics & Probability  
+- Machine Learning  
+- Data Engineering Concepts  
+
+---
+
+### 🚀 What I’m Working On  
+- Personal projects combining **finance + data science**  
+- Exploring **machine learning applications** in financial analytics  
+- Strengthening my foundation in **Python & ML**  
+
+---
+
+### 📫 Connect with Me  
+- Email: **rrushi6548@gmail.com**  
+- Let’s collaborate on exciting data projects 🚀  
+
+---
